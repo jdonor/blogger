@@ -1,24 +1,11 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple blog engine made using Rails. 
 
-Things you may want to cover:
+The production site can be [viewed here](https://fierce-mesa-65202.herokuapp.com/)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can view articles and write comments without being logged in, but if you want to write or edit articles you'll need to:
+- Log in as admin@example.com/password
+- Create a new user
+- Log out
+- Log in as your new user
